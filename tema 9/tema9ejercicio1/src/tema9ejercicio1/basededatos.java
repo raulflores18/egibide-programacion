@@ -49,4 +49,6 @@ public class basededatos {
     public Connection getcon(){
         return con;
     }
+    
+     
 }

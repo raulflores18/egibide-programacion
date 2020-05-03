@@ -1,4 +1,3 @@
-
 package tema9ejercicio1;
 
 
@@ -16,6 +15,10 @@ public class personas {
         this.edad = edad;
         this.profesion = profesion;
         this.telefono = telefono;
+    }
+
+    public personas() {
+       
     }
     
     /*atributos*/
